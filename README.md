@@ -2,7 +2,7 @@
 Joomla Vagrant box wrapper for box @ `thealex7r/joomla`
 After importing the box webroot is relocated to local `./html/` so you can easily start working with files.
 
-#### How to note:
+#### `How to` note:
 Don't forget to
 
 `git add` and `git commit` folders that you're planing to work with 
